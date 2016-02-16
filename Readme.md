@@ -4,9 +4,9 @@
 
 ## Requirements
 
->Use of git
->Minimum of 20 commits (yes I will be able to check your commits, and version history so I will know if you copy and paste code)
->Have Fun!!
+> - Use of git
+> - Minimum of 20 commits (yes I will be able to check your commits, and version history so I will know if you copy and paste code)
+> - Have Fun!!
 
 
 ## Usage
