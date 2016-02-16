@@ -5,8 +5,15 @@
 ## Requirements
 
 > - Use of git
-> - Minimum of 20 commits (yes I will be able to check your commits, and version history so I will know if you copy and paste code)
+> - Minimum of 10 commits (yes I will be able to check your commits, and version history so I will know if you copy and paste code)
+> - Use of Sass (DO NOT EDIT THE MAIN CSS FILE MANUALLY)
 > - Have Fun!!
+
+## Resources
+> - http://sass-lang.com/
+> - https://developer.mozilla.org/en-US/
+
+
 
 
 ## Usage
