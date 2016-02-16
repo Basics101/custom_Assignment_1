@@ -1,0 +1,27 @@
+body {
+  background-color: #1D6FB1;
+  text-align: center; }
+  body h1 {
+    font-family: cursive;
+    color: white; }
+    body h1 a {
+      text-decoration: none; }
+    body h1 a:visited {
+      text-decoration: none;
+      color: white; }
+
+.cage {
+  margin-top: 35px;
+  border-radius: 10%;
+  height: 25%;
+  width: 25%; }
+
+.cage:hover {
+  height: 50%;
+  width: 50%; }
+
+#captcha {
+  text-align: center; }
+
+.g-recaptcha {
+  display: inline-block; }

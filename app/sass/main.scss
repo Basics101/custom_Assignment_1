@@ -1,0 +1,36 @@
+// Color Variables
+$body: #1D6FB1;
+//Global Elements
+body {
+  background-color: $body;
+  text-align: center;
+  h1 {
+    font-family: cursive;
+    color: white;
+    a {
+      text-decoration: none;
+    }
+    a:visited {
+      text-decoration: none;
+      color: white;
+    }
+  }
+}
+.cage {
+  margin-top: 35px;
+  border-radius: 10%;
+  height: 25%;
+  width: 25%;
+}
+.cage:hover {
+  height: 50%;
+  width: 50%;
+}
+#captcha {
+  text-align: center;
+}
+.g-recaptcha {
+  display: inline-block;
+}
+
+//Specific Pages
