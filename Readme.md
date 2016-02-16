@@ -1,12 +1,14 @@
 ## Hello Ivo
 
-> For this assignment I will be creating a custom website and launching it on github pages. I want you to recreate the site.
+> For this assignment I will be creating a custom website and putting it in the repo. You will clone it down, enter in this code into your terminal once you have directed to that directory `python -m SimpleHTTPServer 8000` and you will go to your address bar and type this into the URL `localhost:8000`
 
 ## Requirements
 
 > - Use of git
 > - Minimum of 10 commits (yes I will be able to check your commits, and version history so I will know if you copy and paste code)
 > - Use of Sass (DO NOT EDIT THE MAIN CSS FILE MANUALLY)
+> - install node-js to your computer globally
+> - install bower to your computer globally
 > - Have Fun!!
 
 ## Resources
